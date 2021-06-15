@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LK';
+    src: url('../../Font/LEMONMILK-LightItalic.woff2') format('woff2'),
+        url('../../Font/LEMONMILK-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
